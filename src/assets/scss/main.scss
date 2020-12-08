@@ -82,6 +82,13 @@ button{
         text-transform: uppercase;
         color: #97be87 !important;
     }
+
+    &:hover{
+        background-color: #97be87;
+        a{
+            color: black !important;
+        }
+    }
 }
 
 
