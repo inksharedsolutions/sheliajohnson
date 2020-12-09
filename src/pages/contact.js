@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 import Inputs from "../components/Inputs/inputs"
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
+import { Helmet } from "react-helmet"
 
 
 const Contact = (props) => {
@@ -34,7 +35,7 @@ const Contact = (props) => {
         <>
 
             <Layout>
-
+            <Helmet title="Contact | Shelia Johnson"/>
                 <Nav pathExt={props.path} />
                 <Banner
                     spanFirst={`Get In`}
@@ -43,7 +44,6 @@ const Contact = (props) => {
 
                 <main className="flexMainContainer">
                     <div className="flex-container-fx">
-
                         <p className="contactMessage">
                             Hello! Are you having a good day? Anyway, if you have any concerns or you just want to
                             share something, please feel free to drop me a line. I would love to hear anything from you.

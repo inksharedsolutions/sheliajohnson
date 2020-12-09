@@ -515,10 +515,6 @@
         padding: 25px;
     }
 
-    .contactMessage{
-        font-size: 15px;
-        text-indent: 0px;
-    }
 }
 
 @media screen and (max-width: 450px) {
@@ -576,7 +572,9 @@
     }
 }
 
-
+@media screen and (max-width: 375){
+    
+}
 
 
 /***
