@@ -1,5 +1,5 @@
 import React from 'react'
-import AuthorImg from '../../static/author/dummy.png'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 const Author = () => {
     return (
@@ -10,8 +10,6 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                            Shelia Johnson Peters Bio.
-
                             Born December 26, 1948 in Nassau, Bahamas, Shelia was the first of
                             seven kids by her mother Mary. As a child she was known to have a very
                             care-free nature and nothing seemed to bother her.

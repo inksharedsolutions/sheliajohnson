@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import Nav from '../components/nav'
 
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/author/dummy.png'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 const ATB = (props) => {
 
@@ -36,10 +36,6 @@ const ATB = (props) => {
                         </div>
 
                         <article className="article-section column" id="author">
-                            <p>
-                            Shelia Johnson Peters Bio
-                            </p>
-
                             <p>
                             Born December 26, 1948 in Nassau, Bahamas, Shelia was the first of
                             seven kids by her mother Mary. As a child she was known to have a very
