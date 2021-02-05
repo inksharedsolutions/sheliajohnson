@@ -99,7 +99,7 @@ const ATB = (props) => {
 
                             <p>
                             Twenty plus years later and the young island girl has now become a
-                            US citizen, the Author of a book title “8 Kids and 2 Suitcases” the proud
+                            US citizen, the Author of a book title “WHAT IF SHE KNEW SHE WAS POWERFUL” the proud
                             grandmother of seventeen grandchildren, one great grandchild four sonsin-law and one daughter-in-law. Although many things have changed
                             throughout the years two things remain constant; her unwavering faith
                             in God and her devotion to her children. Her strong faith and “don’t
